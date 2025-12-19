@@ -1,16 +1,5 @@
 ---
 description: Что такое Requests For Comments, как и зачем их писать.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 📃 RFCs

@@ -2,17 +2,6 @@
 description: >-
   Developer velocity – это скорость и эффективность, с которой команда
   разработки может создавать, изменять и развертывать качественный код.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 🚤 Скорость разработки

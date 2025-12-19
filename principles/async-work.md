@@ -1,16 +1,5 @@
 ---
 description: Про важные атрибуты работы в распределенной команде.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 🎴 Асинхронная работа
@@ -82,4 +71,4 @@ layout:
 * Командных активностей и тимбилдинга
 * Онбординга новых людей
 
-См. [Periodic Face-to-Face](https://martinfowler.com/bliki/PeriodicFaceToFace.html)\
+См. [Periodic Face-to-Face](https://martinfowler.com/bliki/PeriodicFaceToFace.html)<br>

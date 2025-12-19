@@ -2,17 +2,6 @@
 description: >-
   Как организовывать встречи, звонки и эффективно использовать свое и время
   команды.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # 🫠 Встречи и звонки
