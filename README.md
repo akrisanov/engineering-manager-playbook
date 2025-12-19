@@ -6,6 +6,8 @@ description: Плейбук для тимлидов и пр. руководит�
 
 Автор: [Андрей Крисанов](https://akrisanov.com/links)
 
+Github: [https://github.com/akrisanov](https://github.com/akrisanov)
+
 ***
 
 2024–2025, MIT
