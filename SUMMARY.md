@@ -53,6 +53,7 @@
 * [Обработка исключений](engineering-practices/obrabotka-isklyuchenii.md)
 * [4 вида оптимизации](engineering-practices/4-vida-optimizacii.md)
 * [Работа с ошибками Sentry](engineering-practices/rabota-s-oshibkami-sentry.md)
+* [Дизайн HTTP API](engineering-practices/dizain-http-api.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
