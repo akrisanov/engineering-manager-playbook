@@ -55,6 +55,9 @@
 * [Работа с ошибками Sentry](engineering-practices/rabota-s-oshibkami-sentry.md)
 * [Дизайн HTTP API](engineering-practices/dizain-http-api.md)
 * [Ansible](engineering-practices/ansible.md)
+* [Логирование](engineering-practices/logirovanie/README.md)
+  * [Обработка PII](engineering-practices/logirovanie/obrabotka-pii.md)
+  * [Формат логов](engineering-practices/logirovanie/format-logov.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
