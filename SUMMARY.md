@@ -49,7 +49,8 @@
   * [Оформление коммитов](engineering-practices/rabota-s-git-repozitoriyami/oformlenie-kommitov.md)
   * [Оформление merge request](engineering-practices/rabota-s-git-repozitoriyami/oformlenie-merge-request.md)
 * [Код-ревью](engineering-practices/kod-revyu.md)
-* [Стратегия контроля качества](engineering-practices/strategiya-kontrolya-kachestva.md)
+* [Стратегия контроля качества](engineering-practices/page.md)
+* [Обработка исключений](engineering-practices/obrabotka-isklyuchenii.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 

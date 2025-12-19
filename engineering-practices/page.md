@@ -1,4 +1,4 @@
-# Page
+# Стратегия контроля качества
 
 > _"If you have a process that produces defects, then you have a defective process."_
 
