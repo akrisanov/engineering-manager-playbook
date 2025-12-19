@@ -31,17 +31,18 @@
 
 ## ☯️ Принципы <a href="#principles" id="principles"></a>
 
-* [🎴 Асинхронная работа](principles/async-work.md)
+* [Асинхронная работа](principles/async-work.md)
 
 ## 🤝 Коммуникация <a href="#communication" id="communication"></a>
 
-* [🫠 Встречи и звонки](communication/meetings-and-calls.md)
+* [Встречи и звонки](communication/meetings-and-calls.md)
 
 ## 🏗️ Инженерные практики <a href="#engineering-practices" id="engineering-practices"></a>
 
-* [🚤 Скорость разработки](engineering-practices/developer-velocity.md)
-* [📃 RFCs](engineering-practices/rfcs/README.md)
+* [Скорость разработки](engineering-practices/developer-velocity.md)
+* [RFCs](communication/rfcs.md)
   * [RFC номер: Название](engineering-practices/rfcs/rfc-nomer-nazvanie.md)
+* [Архитектурный дизайн](engineering-practices/arkhitekturnyi-dizain.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 

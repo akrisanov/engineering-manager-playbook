@@ -2,7 +2,7 @@
 description: Что такое Requests For Comments, как и зачем их писать.
 ---
 
-# 📃 RFCs
+# RFCs
 
 ### Почему RFC <a href="#rfcs-pochemurfc" id="rfcs-pochemurfc"></a>
 
