@@ -48,6 +48,7 @@
   * [Работа с ветками в git](engineering-practices/git/rabota-s-vetkami-v-git.md)
   * [Оформление коммитов](engineering-practices/git/oformlenie-kommitov.md)
   * [Оформление merge request](engineering-practices/git/oformlenie-merge-request.md)
+* [Ревью кода](engineering-practices/revyu-koda.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
