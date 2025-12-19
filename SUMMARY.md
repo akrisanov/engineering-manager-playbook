@@ -51,6 +51,8 @@
 * [Код-ревью](engineering-practices/kod-revyu.md)
 * [Стратегия контроля качества](engineering-practices/page.md)
 * [Обработка исключений](engineering-practices/obrabotka-isklyuchenii.md)
+* [4 вида оптимизации](engineering-practices/4-vida-optimizacii.md)
+* [Работа с ошибками Sentry](engineering-practices/rabota-s-oshibkami-sentry.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
