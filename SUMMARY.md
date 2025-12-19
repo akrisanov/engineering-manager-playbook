@@ -36,11 +36,12 @@
 ## 🤝 Коммуникация <a href="#communication" id="communication"></a>
 
 * [🫠 Встречи и звонки](communication/meetings-and-calls.md)
-* [📃 RFCs](communication/rfcs.md)
 
 ## 🏗️ Инженерные практики <a href="#engineering-practices" id="engineering-practices"></a>
 
 * [🚤 Скорость разработки](engineering-practices/developer-velocity.md)
+* [📃 RFCs](engineering-practices/rfcs/README.md)
+  * [RFC номер: Название](engineering-practices/rfcs/rfc-nomer-nazvanie.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
