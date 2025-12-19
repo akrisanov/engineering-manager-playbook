@@ -43,12 +43,13 @@
 * [RFCs](communication/rfcs.md)
   * [RFC номер: Название](engineering-practices/rfcs/rfc-nomer-nazvanie.md)
 * [Архитектурный дизайн](engineering-practices/arkhitekturnyi-dizain.md)
-* [git](engineering-practices/git/README.md)
-  * [Конфиг git](engineering-practices/git/konfig-git.md)
-  * [Работа с ветками в git](engineering-practices/git/rabota-s-vetkami-v-git.md)
-  * [Оформление коммитов](engineering-practices/git/oformlenie-kommitov.md)
-  * [Оформление merge request](engineering-practices/git/oformlenie-merge-request.md)
-* [Ревью кода](engineering-practices/revyu-koda.md)
+* [Работа с git репозиториями](engineering-practices/rabota-s-git-repozitoriyami/README.md)
+  * [Конфиг git](engineering-practices/rabota-s-git-repozitoriyami/konfig-git.md)
+  * [Работа с ветками в git](engineering-practices/rabota-s-git-repozitoriyami/rabota-s-vetkami-v-git.md)
+  * [Оформление коммитов](engineering-practices/rabota-s-git-repozitoriyami/oformlenie-kommitov.md)
+  * [Оформление merge request](engineering-practices/rabota-s-git-repozitoriyami/oformlenie-merge-request.md)
+* [Код-ревью](engineering-practices/kod-revyu.md)
+* [Page](engineering-practices/page.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
