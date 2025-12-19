@@ -4,7 +4,7 @@
 
 Указанные ниже настройки необходимы для линейной истории в мастере:
 
-<figure><img src="../../.gitbook/assets/image.png" alt="Настройки репозитория для поддержания линейной истории"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="Настройки репозитория для поддержания линейной истории"><figcaption></figcaption></figure>
 
 ### Мастер
 
@@ -45,7 +45,7 @@ fix/PF2-xxxx-missing-application-config
 
 После успешного ревью ветка должна быть протестирована QA. Для этого автору необходимо выставить соответствующий статус в Трекере и проставить лейбл в GitLab.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 QA разворачивает ветку на тестовом окружении и проверяет изменения. Исключения:
 

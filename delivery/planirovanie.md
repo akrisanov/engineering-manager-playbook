@@ -22,7 +22,7 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="The OGP Framework by HubSpot"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="OGP in Action by HubSpot"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="OGP in Action by HubSpot"><figcaption></figcaption></figure>
 
 ### Цели компании
 

@@ -54,6 +54,7 @@
 * [4 вида оптимизации](engineering-practices/4-vida-optimizacii.md)
 * [Работа с ошибками Sentry](engineering-practices/rabota-s-oshibkami-sentry.md)
 * [Дизайн HTTP API](engineering-practices/dizain-http-api.md)
+* [Ansible](engineering-practices/ansible.md)
 
 ## 📆 Производство <a href="#delivery" id="delivery"></a>
 
@@ -64,3 +65,9 @@
 * [Цикл разработки](delivery/cikl-razrabotki.md)
 * [Точки синхронизации в команде разработки](delivery/tochki-sinkhronizacii-v-komande-razrabotki.md)
 * [Бизнес и системная аналитика](delivery/biznes-i-sistemnaya-analitika.md)
+* [Нефункциональные требования](delivery/nefunkcionalnye-trebovaniya.md)
+
+## 🎓 Ресурсы
+
+* [Процессы разработки](resursy/processy-razrabotki.md)
+* [Проектирование](resursy/proektirovanie.md)
