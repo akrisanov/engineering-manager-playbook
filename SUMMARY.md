@@ -27,6 +27,7 @@
 * [Оффбординг](team/offbording/README.md)
   * [Дата увольнения – Сотрудник](team/offbording/data-uvolneniya-sotrudnik.md)
 * [Ментальное здоровье](team/mentalnoe-zdorove.md)
+* [Performance Review](team/performance-review.md)
 
 ## ☯️ Принципы <a href="#principles" id="principles"></a>
 
@@ -40,3 +41,13 @@
 ## 🏗️ Инженерные практики <a href="#engineering-practices" id="engineering-practices"></a>
 
 * [🚤 Скорость разработки](engineering-practices/developer-velocity.md)
+
+## 📆 Производство <a href="#delivery" id="delivery"></a>
+
+* [С чего начать](delivery/s-chego-nachat.md)
+* [Планирование](delivery/planirovanie.md)
+* [Процесс планирования Эпиков](delivery/process-planirovaniya-epikov.md)
+* [Типы рабочих элементов и их критерии](delivery/tipy-rabochikh-elementov-i-ikh-kriterii.md)
+* [Цикл разработки](delivery/cikl-razrabotki.md)
+* [Точки синхронизации в команде разработки](delivery/tochki-sinkhronizacii-v-komande-razrabotki.md)
+* [Бизнес и системная аналитика](delivery/biznes-i-sistemnaya-analitika.md)
