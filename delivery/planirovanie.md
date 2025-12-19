@@ -20,15 +20,15 @@
 * Цели отвечают на вопрос “Как проверить долгосрочные гипотезы и ставки на функциональном уровне в разрезе следующих 12-18 месяцев”?
 * Квартальные проекты отвечают на вопрос “Как мы реализуем цели на уровне команд с планированием по 3-6 месяцев?”
 
-<figure><img src="../.gitbook/assets/image.png" alt="The OGP Framework by HubSpot"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="The OGP Framework by HubSpot"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="OGP in Action by HubSpot"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="OGP in Action by HubSpot"><figcaption></figcaption></figure>
 
 ### Цели компании
 
 Для формирования квартальных проектов и прочих запросов необходимо сформировать иерархию потребностей, которые помогут с приоритизацией. Например, безопасность, приватность пользовательских данных, надежность могут идти впереди продуктовых целей.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Квартальные цел﻿и (проекты)**
 
